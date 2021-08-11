@@ -47,6 +47,24 @@ rosrun robot_arm_pkg joint_states_to_gazebo.py  and press  gazebo
 :<img width="776" alt="Screen Shot 1443-01-03 at 4 49 55 PM" src="https://user-images.githubusercontent.com/53026144/129045304-fc1f4aad-3918-4c11-8cdd-c27d4ae770e5.png">
 
 
+for the arm will using movelt which is simulate the arm movement in different directions use
+$roslaunch moveit_pkg demo.launch
+
+
+<img width="776" alt="Screen Shot 1443-01-03 at 4 02 47 PM" src="https://user-images.githubusercontent.com/53026144/129046946-04cd352b-c445-4837-877d-db0b2d79ba9c.png">
+
+
+
+
+My work https://app.theconstructsim.com/#/Rosject/449682
+
+
+
+
+
+
+
+
 
 
 
