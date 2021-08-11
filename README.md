@@ -51,7 +51,7 @@ for the arm will using movelt which is simulate the arm movement in different di
 $roslaunch moveit_pkg demo.launch
 
 
-<img width="776" alt="Screen Shot 1443-01-03 at 4 02 47 PM" src="https://user-images.githubusercontent.com/53026144/129046946-04cd352b-c445-4837-877d-db0b2d79ba9c.png">
+<img width="1004" alt="Screen Shot 1443-01-03 at 5 11 24 PM" src="https://user-images.githubusercontent.com/53026144/129047243-b4366184-c29a-4d1f-95cc-0d42a8b5f64f.png">
 
 
 
