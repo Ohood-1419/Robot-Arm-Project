@@ -32,5 +32,30 @@ $ sudo apt-get install ros-melodic-ros-controllers ros-melodic-ros-control
 
 $ catkin_make
 
-we will run $roslaunch robot_arm_pkg check_motors.launch:
-<img width="776" alt="Screen Shot 1443-01-03 at 4 49 55 PM" src="https://user-images.githubusercontent.com/53026144/129044353-c204ef17-6f8b-4e1e-8f6d-03e5e297ed67.png">
+we will run $roslaunch robot_arm_pkg check_motors.launch 
+and press on graphical tools:
+
+
+<img width="776" alt="Screen Shot 1443-01-03 at 4 02 47 PM" src="https://user-images.githubusercontent.com/53026144/129044492-8ecdf262-eb56-494e-b04c-da5bec405c6d.png">
+
+
+
+
+we also open another shall web and run $roslaunch robot_arm_pkg check_motors_gazebo.launch
+rosrun robot_arm_pkg joint_states_to_gazebo.py  and press  gazebo 
+
+:<img width="776" alt="Screen Shot 1443-01-03 at 4 49 55 PM" src="https://user-images.githubusercontent.com/53026144/129045304-fc1f4aad-3918-4c11-8cdd-c27d4ae770e5.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
